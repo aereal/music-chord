@@ -1,0 +1,6 @@
+# Music::Chord
+
+## Usage
+
+require "music/chord"
+cmaj = Chord.new("C", "E", "G")
